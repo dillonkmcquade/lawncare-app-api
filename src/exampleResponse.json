@@ -1,0 +1,37 @@
+{
+    "coord":{
+        "lon":76.6,
+        "lat":45.6
+    },
+    "weather":[{
+        "id":800,
+        "main":"Clear",
+        "description":"clear sky",
+        "icon":"01d"
+    }],
+    "base":"stations",
+    "main":{
+        "temp":283.95,
+        "feels_like":281.84,
+        "temp_min":283.95,
+        "temp_max":283.95,
+        "pressure":1015,
+        "humidity":29,
+        "sea_level":1015,
+        "grnd_level":972},
+    "visibility":10000,
+    "wind":{
+        "speed":9.16,
+        "deg":60,
+        "gust":13.1},
+    "clouds":{"all":4},
+    "dt":1682900546,
+    "sys":{
+        "country":"KZ",
+        "sunrise":1682898144,
+        "sunset":1682949537},
+    "timezone":21600,
+    "id":1525850,
+    "name":"Bakanas",
+    "cod":200
+}
